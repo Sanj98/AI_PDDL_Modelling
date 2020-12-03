@@ -40,7 +40,7 @@ The problems are specified such that cells stand for rooms and edges between the
 
 ![problem1](problem3.png)
 
-***Note:****domain.pddl defines the domain with facts and actions. The problem.pddl files define each problem in detail with the initial and goal states.
+***Note: domain.pddl defines the domain with facts and actions. The problem.pddl files define each problem in detail with the initial and goal states.***
 
 ## How to run the files ? 
 
